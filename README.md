@@ -9,7 +9,6 @@ A high-performance object detection system that processes video streams in real-
 
  Key Features
 Multi-class detection: Identifies 80+ COCO classes (persons, vehicles, etc.) in video feeds.
-CPU optimization: Smooth performance without GPU acceleration (~10-15 FPS on Intel i5).
 Real-time visualization: Dynamic bounding boxes and labels overlaid using OpenCV.
 Deployment-ready: Designed for surveillance, media analysis, and edge devices
 
