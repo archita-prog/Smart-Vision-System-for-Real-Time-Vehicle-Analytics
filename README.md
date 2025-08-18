@@ -21,23 +21,6 @@ Tech Stack
 - Plotly / Matplotlib → Data visualization (charts, graphs)  
 - PIL (Pillow) → Image processing  
 
-
-
-Project Structure
-
-```bash
-vehicle-detection-app/
-│── models/                 # Contains YOLOv8 .pt model file
-│── StreamApp.py                  # Main Streamlit app code
-│── requirements.txt        # Python dependencies
-│── utils.py                # Helper functions (optional: plotting, formatting)
-│── sample_data/            # Example test images
-│── outputs/                # Saved detection results & exported files
-│── README.md               # Project documentation
-```
-
-
-
 Installation & Setup
 
 1)Clone the Repository
