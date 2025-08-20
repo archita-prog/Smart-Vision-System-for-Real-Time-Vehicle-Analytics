@@ -90,17 +90,17 @@ Each run generates a detection summary CSV in the `outputs/` folder containing:
 
 
 
-Future Enhancements
+Sample Output
+For Daytime Detections
+<img width="1006" height="837" alt="image" src="https://github.com/user-attachments/assets/9b2f4ddc-85a9-4495-8c6f-975027fab9b9" />
+<img width="1001" height="366" alt="image" src="https://github.com/user-attachments/assets/0ebff4ae-cfdf-4f76-a92e-b4cb91f15dcd" />
 
-- [ ] Add video stream support (dashcams, CCTV)  
-- [ ] Deploy app on Streamlit Cloud / HuggingFace Spaces
-- [ ] Export detections in **COCO JSON / Pascal VOC XML** formats  
-
-
-
-🔥 You’re all set! Now you can detect vehicles with a few clicks in your browser.  
-
+For Night Time Detections
+<img width="1042" height="825" alt="image" src="https://github.com/user-attachments/assets/11dca459-8bd4-41a9-af19-4398f43b47ef" />
+<img width="1061" height="321" alt="image" src="https://github.com/user-attachments/assets/fd8a24bb-3eb5-477a-80c4-fdfeea1b934a" />
 
 
-Would you like me to also **include the exact code for `app.py`** (Streamlit implementation with YOLOv8 + Pandas + Plotly) so your README looks complete with example usage?
+
+
+
 
