@@ -1,5 +1,3 @@
-Vehicle Detection Web App (YOLOv8 + Streamlit)
-
 An end-to-end machine learning project that detects 12+ types of vehicles (cars, trucks, buses, bikes, etc.) in uploaded images using a custom-trained YOLOv8 model. The application provides an interactive Streamlit interface for uploads , real-time detection 👀, results visualization , and summary export .  
 
 Features
