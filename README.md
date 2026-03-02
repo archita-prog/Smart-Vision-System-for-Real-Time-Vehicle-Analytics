@@ -51,7 +51,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-- This will launch the app in your browser (`http://localhost:8501`).  
+- This will launch the app in your browser (https://resume-nj7wjspzr8tvhbhtvxhemw.streamlit.app/).  
 - Upload an image → View detections → Download CSV results.  
 
 
